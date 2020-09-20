@@ -1,7 +1,7 @@
 # Svitlana Dasgupta
 ## Junior Front-End Developer
 <br>
-+38(080)123-45-67
+&nbsp; +38(080)123-45-67
 
 mymailbox@gmail.com<br>
 [www.linkedin.com/in/someprofile](www.linkedin.com/in/someprofile)
